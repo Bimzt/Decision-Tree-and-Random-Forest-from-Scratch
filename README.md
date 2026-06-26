@@ -1,4 +1,4 @@
-# Music Emotion Classification — Decision Tree & Random Forest from Scratch
+# Music Emotion Classification Decision Tree & Random Forest from Scratch
 
 > Implementing Decision Tree and Random Forest algorithms **without scikit-learn's built-in classifiers** to classify music emotions based on acoustic features from the Turkish Music Emotion Dataset.
 
@@ -17,7 +17,7 @@ Rather than using high-level libraries as a black box, this implementation focus
 
 ## Problem Statement
 
-Can we accurately classify the emotional tone of a music piece based solely on its acoustic features — using algorithms built entirely from first principles?
+Can we accurately classify the emotional tone of a music piece based solely on its acoustic features using algorithms built entirely from first principles?
 
 ---
 
