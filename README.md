@@ -115,7 +115,7 @@ Or open directly in [Google Colab](https://colab.research.google.com/).
 | Model | Accuracy |
 |-------|----------|
 | Decision Tree (from scratch) | 74% |
-| Random Forest (from scratch) | 82%% |
+| Random Forest (from scratch) | 82% |
 | Decision Tree (sklearn baseline) | 76% |
 | Random Forest (sklearn baseline) | 84% |
 
