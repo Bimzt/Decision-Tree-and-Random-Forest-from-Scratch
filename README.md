@@ -91,8 +91,8 @@ Comparison vs. Scikit-learn Baseline
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Bimzt/Implementation-of-Decision-Tree-and-Random-Forest-Algorithms-from-Scratch.git
-cd Implementation-of-Decision-Tree-and-Random-Forest-Algorithms-from-Scratch
+git clone https://github.com/Bimzt/Decision-Tree-and-Random-Forest-from-Scratch
+cd Decision-Tree-and-Random-Forest-from-Scratch
 ```
 
 ### 2. Install dependencies
